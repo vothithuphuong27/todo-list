@@ -1,0 +1,9 @@
+.app {
+  text-align: center;
+  list-style: none;
+}
+li {
+  list-style: none;
+  margin-right: 35px;
+}
+
